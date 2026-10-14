@@ -1,6 +1,6 @@
 import {readFileSync,writeFileSync, existsSync} from "node:fs";
 import {fileURLToPath} from "node:url";
-import {dirname, join} from "nodeL:path";
+import {dirname, join} from "node:path";
 
 //Ruta calculada dese este archivo, no desde donde se ejecuta node
 const __dirname = dirname(fileURLToPath(import.meta.url));

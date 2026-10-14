@@ -26,5 +26,12 @@
     "nombre": "Sincronizada1791940559556",
     "precio": 32,
     "categoria": "comida"
+  },
+  {
+    "id": "6d839b98-144e-481c-ac9a-a21c88472b8a",
+    "disponible": true,
+    "nombre": "Sincronizada1791948281357",
+    "precio": 32,
+    "categoria": "comida"
   }
 ]
